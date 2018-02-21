@@ -16,4 +16,4 @@ Welke ontwikkelmethode is het meest geschikt om het ASD project 2018 mee uit te 
 - Spotify ontwikkelmethodiek googlen?
 - Impact-vraag iets scherper maken (deelvraag 5)
 
-# [Bronnenlijst](.bronnenlijst.md)
+# [Bronnenlijst](./bronnenlijst.md)
