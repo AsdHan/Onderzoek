@@ -1,3 +1,6 @@
 - Netflix
 - Spotify
 - InfoSupport
+- Bedrijven
+- Studenten die het ASD project gehaald hebben
+- Klasgenoten
