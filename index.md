@@ -3,7 +3,6 @@ Welke ontwikkelmethode is het meest geschikt om het ASD project 2018 mee uit te 
 
 # Deelvragen
 1. [Welke aspecten van het ASD project 2018 zijn van belang voor het kiezen van een projectmethode?](./Deelvragen/aspecten.md)
-2. [Wat houdt het ASD project 2018 in?](./Deelvragen/projectinhoud.md)
 3. Welke ontwikkelmethodieken voor groepen van rond de 20 personen bestaan er?
     - Wat voor projectmethodieken gebruiken (grote) bedrijven?
 4. Wat zijn de voor en nadelen van de top 10 projectmethodieken?
