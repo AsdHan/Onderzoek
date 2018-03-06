@@ -30,3 +30,34 @@ Echter, volgens Cone(2009) dient een Scrum team maximaal te voeden moeten zijn m
 Volgens van der Klis(2016) is het Scaled Agile Framework(SAFe) een framework waarin teams bestaande uit 8 tot 10 mensen werken aan software. Dit doen deze teams zelfvoorzienend. Het team regelt end-to-end de vertaling van requirements naar geteste code en deployment in de benodigde omgevingen. Verschillende teams creëren samen wat SAFe een "Release Train" noemt. Dit is een stuk project, programma, product of dienst zijn. 
 
 Een zogehete Release Train bestaat uit 50 tot 125 individuen. Dit maakt het Scaled Agile Framework vooral geschikt voor grote ontwikkelteams. Deze groep individuen worden in kleinere groepen opgesplitst. Deze werken allemaal dus als kleiner subteam aan een onderdeel van het op te leveren product. Om de organisatie tussen deze subteams te coördineren dient er ook een coördinatieteam aanwezig te zijn. Dit team wordt het release management team genoemd en bestaat uit een Release Team Engineer, program facilitator, hoofd scrum master, product management en eventueel nog wat ondersteunende stafleden geaffineerd met architectuur en testing. 
+
+![alt text](http://www.henkjanvanderklis.nl/wp-content/uploads/2016/08/safe-in-a-nutshell.jpg)
+Afbeelding 3
+
+## Large Scale Scrum
+
+Ook Large Scale Scrum, ook wel LeSS genoemd, is een agile framework gebaseerd op Scrum. LeSS bestaat in twee formaten:
+
+- LeSS
+- LeSS Huge
+
+LeSS Huge is, zo beschrijven Larman en Vodde(2016) is voor een team van meerdere duizenden individuen die aan hetzelfde product werken. Om deze reden valt LeSS Huge buiten de scope van dit onderzoek.
+
+LeSS zelf, echter, is ingericht voor maximaal acht teams van acht personen tegelijk. 
+
+LeSS lijkt op Scrum. Vele aspecten van beide frameworks komen overeen met elkaar. Zo bestaat in zowel LeSS als One-Team-Scrum:
+
+- Een enkele product backlog
+- Een Definition of Done voor alle teams
+- Een werkend deelproduct aan het einde van een sprint
+- Een enkele product owner
+
+Echter, LeSS differentieerd zichzelf op de volgende punten:
+
+- Sprintplanning: in toevoeging van de product owner doen er mensen mee van alle afzonderlijke teams. De teamleden zullen zelf uitzoeken welke onderdelen van de Product Backlog er door welk team gedaan wordt. Ook worden er afzonderlijke sprintplanningen gehouden. Deze zijn binnen het team, maar kunnen ook meerdere teams betrekken die van elkaar afhankelijk zijn. 
+- Daily Scrum: deze wordt ook individueel door ieder team gehouden. Echter kan het voorkomen dat een teamlid van een ander team een Daily Scrum bijwoond om de informatie-uitwisseling te verhogen.
+- Algehele Product Backlog Refinement: wordt gedaan met de product owner en leden van alle teams. Dit element wordt gedaan om te bepalen welk team wat precies gaat doen. Na het vaststellen hiervan zal binnen de afzonderlijke teams nogmaals in-depth product backlog refinement plaatsvinden.
+- Sprint review: dit wordt gedaan samen met de product owner, leden van alle teams, relevante klanten/gebruikers en andere stakeholders. Dit wordt gedaan op een soort markt-achtige manier. In meerdere ruimten zal ieder team het door hun gemaakte (deel)product tentoonstellen.
+- Algehele Retrospective: deze meeting bestaat niet in One-Team-Scrum. Het doel is het exploreren van verbeteringen van het algehele systeem, in plaats van zich maar te focussen op 1 team. Deze meeting duurt maximaal 45 minuten per weeklengte in de sprint. De meeting dient bijgewoond te worden door de product owner, de Scrum masters en iedere keer een ander teamlid van de afzonderlijke teams.
+
+
