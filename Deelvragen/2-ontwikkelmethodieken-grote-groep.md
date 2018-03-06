@@ -8,7 +8,7 @@ Omdat er al een aantal ontwikkelmethodieken bekend zijn zullen deze in dit hoofd
 Een andere klassieke ontwikkelmethodiek is de waterval methode. Deze methode is in tegenstelling tot Scrum juist erg "statisch". Dat wil zeggen dat er vooraf met de stakeholders afgesproken wordt wat er gemaakt dient te worden. Dit proces loopt dan door een aantal fasen heen die strict gesproken eerst af gemaakt dienen te worden voor er aan de volgende fase begonnen wordt.
 
  ![alt text](https://www.consultancy.nl/illustrations/news/detail/1464181921170_Waterval%20methode-01.jpg)
-Afbeelding 2
+Afbeelding 1
 
 Deze ontwikkelmethodiek heeft als valkuil dat er aan het eind van het ontwikkelen van het product de wensen van de stakeholders niet meer overeenkomen met de gemaakte functionaliteit(en). Een goed voorbeeld van deze valkuil is te vermelden bij het project zorg- en huurtoeslag van de Nederlandse Belastingdienst. Dit project heeft geduurd van 2005 tot het stil gezet werd in 2013. Uiteindelijke kosten ruim 200 miljoen euro (Stokman, 2014).
 
@@ -19,7 +19,7 @@ Volgens Fernandes(2015) is scrum geen proces maar een framework dat gebruikt wor
 
 
 ![alt text](https://www.codeproject.com/KB/architecture/704720/ScrumWorkflow.png)
-Afbeelding 1
+Afbeelding 2
 
 In afbeelding 1 is een visuele representatie te zien van het Scrum framework. Allereerst wordt er een product backlog geformuleerd. Dit is een omschrijving van wat het product dient te worden. Dit wordt opgedeeld in sprint backlogs, de te bouwen functionaliteit in de sprint. Te zien is dat iedere sprint 2 tot 4 weken duurt, waarbij er iedere dag een zogehete "Daily Scrum Meeting" wordt gehouden. Dit wordt gedaan zodat het team op de hoogte is van de voortang binnen de sprint. Na de 2 tot 4 weken is er een werkend onderdeel van het product opgeleverd, zal deze worden gepresenteerd aan de stakeholders zodat deze eventueel kan verzoeken om aanpassingen. 
 
@@ -59,5 +59,10 @@ Echter, LeSS differentieerd zichzelf op de volgende punten:
 - Algehele Product Backlog Refinement: wordt gedaan met de product owner en leden van alle teams. Dit element wordt gedaan om te bepalen welk team wat precies gaat doen. Na het vaststellen hiervan zal binnen de afzonderlijke teams nogmaals in-depth product backlog refinement plaatsvinden.
 - Sprint review: dit wordt gedaan samen met de product owner, leden van alle teams, relevante klanten/gebruikers en andere stakeholders. Dit wordt gedaan op een soort markt-achtige manier. In meerdere ruimten zal ieder team het door hun gemaakte (deel)product tentoonstellen.
 - Algehele Retrospective: deze meeting bestaat niet in One-Team-Scrum. Het doel is het exploreren van verbeteringen van het algehele systeem, in plaats van zich maar te focussen op 1 team. Deze meeting duurt maximaal 45 minuten per weeklengte in de sprint. De meeting dient bijgewoond te worden door de product owner, de Scrum masters en iedere keer een ander teamlid van de afzonderlijke teams.
+
+![alt text](https://less.works/img/framework/xwhy-less-framework.png.pagespeed.ic.VsjqK3Rglz.png)
+Afbeelding 4
+
+Al met al kan gesteld worden dat er geen ontwikkelmethodiek bestaat die zich specifiek richt op ontwikkelteams van 20 personen. Er zijn wel een aantal frameworks gebaseerd op Agile ontwikkelmethodieken die kunnen worden toegepast op ontwikkelteams bestaande uit meer dan de "normale" grootte van 4 tot 8 personen. 
 
 
